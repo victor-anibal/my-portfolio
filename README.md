@@ -7,7 +7,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Meu Portfólio**
-| :label: Tecnologias | Python, JavaScript
+| :label: Tecnologias | Python, JavaScript, HTML, CSS
 | :rocket: URL         | https://github.com/victor-anibal/my-portfolio
 | :fire: Desafio     | https://url-do-desafio.com.br
 
